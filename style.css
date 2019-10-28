@@ -112,3 +112,8 @@ body {
   margin: 2em auto;
   text-align: justify;
 }
+.custom-footer{
+  margin-top:2em;
+  padding: 2em;
+  color: #000;
+}
